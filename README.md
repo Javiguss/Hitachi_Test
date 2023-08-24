@@ -16,7 +16,7 @@ Additionally all dependencies have been added in the "package-lock.json" file.
 
 Note: for TC-4:Plus(optional), since a specific API for these tests was not specified in the criteria, it was decided to select an OpenAPI in order to demonstrate knowledge of RestAPI management and its use at the test level .
 
-After running the project, these are the results, shown as a report due to an additional functionality that playwrite has for these cases:
+After running the project, these are the results, shown as a report due to an additional functionality that Playwright has for these cases:
 
 To run : npx playwright test testSuite.spec.js;
 To show the reports: npx playwright show-report
