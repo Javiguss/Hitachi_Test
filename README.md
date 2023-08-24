@@ -5,8 +5,11 @@ This Repo contains a test framework based on Playwright, Chai and RestAPI, writt
 Creating a test file "testSuite.spec.js" where the following test cases are listed according to the Acceptance Criteria for the test adding positive and negative tests in the scenarios
 
 TC-1 - User can successfully navigate to the site
+
 TC-2 - User can successfully search for keywords
+
 TC-3 - User can successfully open returned search results
+
 TC-4 - Search using public REST API
 
 Additionally all dependencies have been added in the "package-lock.json" file.
